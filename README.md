@@ -10,3 +10,11 @@ Autores:
 Tutor:
 
 * Alfredo Parente
+
+# Datos:
+
+https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg?datasetId=2379197&select=Olympic_Games_Medal_Tally.csv
+
+Dado el tamaño de los CSV no se ha podido adjuntar:
+* Olympic_Athlete_Bio.csv
+* Olympic_Athlete_Event_Results.csv
