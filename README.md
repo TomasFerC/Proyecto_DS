@@ -2,6 +2,8 @@
 
 En este directorio se encuentran los archivos  para llevar a cabo el proyecto final correspondiente al curso de Data Scientist ofrecido por CoderHouse. 
 
+https://colab.research.google.com/drive/1ezRLefoEsRb1C65PCEd6A6T2Dq3G2Pgi?usp=sharing
+
 Autores:
 
 * PEDRO del CAMPO
